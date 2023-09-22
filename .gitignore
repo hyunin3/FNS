@@ -23,3 +23,6 @@ yarn-error.log*
 
 # modules
 node_modules
+
+# env
+.env.local
